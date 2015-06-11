@@ -1,0 +1,5 @@
+text,intent
+Remind me to turn on the heater tonight,remind
+Remind me to turn off the heater tonight,remind
+Remind me to restart the pc tomorrow,remind
+Turn on the flashlight,flashlight
