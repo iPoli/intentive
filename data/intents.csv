@@ -1,5 +1,33 @@
-text,intent
-Remind me to turn on the heater tonight,remind
-Remind me to turn off the heater tonight,remind
-Remind me to restart the pc tomorrow,remind
-Turn on the flashlight,flashlight
+text,intent,task,daytime,frequency,times,interval
+Create task smile every morning minimum once per day,new_task,smile,morning,daily,1,1
+Create task drink a cup of water 6 times a day,new_task,drink a cup of water,anytime,daily,6,1
+Create task study flashcards 2 times a day,new_task,study flashcards,anytime,daily,2,1
+Create task read science paper once per day,new_task,read science paper,anytime,daily,1,1
+Create task workout every next morning,new_task,workout,morning,next day,1,1
+Add task smile every morning minimum once per day,new_task,smile,morning,daily,1,1
+Add task drink a cup of water 6 times a day,new_task,drink a cup of water,anytime,daily,6,1
+Add task study flashcards 2 times a day,new_task,study flashcards,anytime,daily,2,1
+Add task read science paper once per day,new_task,read science paper,anytime,daily,1,1
+Add task workout every next morning,new_task,workout,morning,next day,1,1
+Add ToDo smile every morning minimum once per day,new_task,smile,morning,daily,1,1
+Add ToDo drink a cup of water 6 times a day,new_task,drink a cup of water,anytime,daily,6,1
+Add ToDo study flashcards 2 times a day,new_task,study flashcards,anytime,daily,2,1
+Add ToDo read science paper once per day,new_task,read science paper,anytime,daily,1,1
+Add ToDo workout every next morning,new_task,workout,morning,next day,1,1
+New task smile every morning minimum once per day,new_task,smile,morning,daily,1,1
+New task drink a cup of water 6 times a day,new_task,drink a cup of water,anytime,daily,6,1
+New task study flashcards 2 times a day,new_task,study flashcards,anytime,daily,2,1
+New task read science paper once per day,new_task,read science paper,anytime,daily,1,1
+New task workout every next morning,new_task,workout,morning,next day,1,1
+Make task smile every morning minimum once per day,new_task,smile,morning,daily,1,1
+Make task drink a cup of water 6 times a day,new_task,drink a cup of water,anytime,daily,6,1
+Make task study flashcards 2 times a day,new_task,study flashcards,anytime,daily,2,1
+Make task read science paper once per day,new_task,read science paper,anytime,daily,1,1
+Make task workout every next morning,new_task,workout,morning,next day,1,1
+Hello,chat,,,,,
+Hi there!,chat,,,,,
+How are you doing?,chat,,,,,
+I'm doing great,chat,,,,,
+Thank you,chat,,,,,
+You are welcome,chat,,,,,
+Good morning,chat,,,,,
