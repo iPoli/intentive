@@ -2,7 +2,7 @@ import csv
 
 
 def tasks():
-    new_task_commands = ['Create task', 'Add task', 'Add ToDo', 'New task', 'Make task']
+    new_task_commands = ['Create task', 'Add task', 'Add ToDo', 'New task', 'Make task', 'Add new task']
     tasks = [['smile every morning minimum once per day', 'smile', 'morning', 'daily', '1', '1'],
              ['drink a cup of water 6 times a day', 'drink a cup of water', 'anytime', 'daily', '6', '1'],
              ['study flashcards 2 times a day', 'study flashcards', 'anytime', 'daily', '2', '1'],
