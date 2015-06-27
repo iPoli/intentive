@@ -4,6 +4,7 @@
 
 import theano
 import numpy
+import cPickle as pickle
 
 from theano import tensor as T
 from collections import OrderedDict
@@ -59,3 +60,6 @@ class ElmanRNN():
                                      updates=updates)
 
         self.normalize = theano.function(inputs=[], updates={self.emb: self.emb/T.sqrt((self.emb**2).sum(axis=1)).dimshuffle(0, 'x')})
+
+    def save(self, filename='elman_rnn.p'):
+        pickle.dump(self, open(filename, "wb"))

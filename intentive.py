@@ -49,7 +49,7 @@ def train():
         'nhidden': 100, # number of hidden units
         'seed': 345,
         'emb_dimension': 100, # dimension of word embedding
-        'nepochs': 50}
+        'nepochs': 20}
 
     train_x, train_y, token2idx, idx2token = preprocess_dataset()
 
