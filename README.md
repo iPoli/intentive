@@ -1,5 +1,5 @@
-# understand-me
-Turn natural language text to structured data
+# Intentive
+Turn natural language text into structured data
 
 # Example
 
@@ -17,7 +17,7 @@ Gives you the following output
   "frequency": "weekly",
   "intent": "new_task",
   "interval": 1,
-  "task_name": "create report",
+  "task": "create report",
   "text": "Add new task create report every Friday at 11am"
 }
 

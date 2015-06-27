@@ -1,0 +1,24 @@
+Create task smile every day,new_task,command,command,task,frequency,frequency
+Add task smile every day,new_task,command,command,task,frequency,frequency
+Add ToDo smile every day,new_task,command,command,task,frequency,frequency
+New task smile every day,new_task,command,command,task,frequency,frequency
+Make task smile every day,new_task,command,command,task,frequency,frequency
+Add new task smile every day,new_task,command,command,command,task,frequency,frequency
+Create task read science paper every day excluding Sunday,new_task,command,command,task,task,task,frequency,frequency,omit,excluded
+Add task read science paper every day excluding Sunday,new_task,command,command,task,task,task,frequency,frequency,omit,excluded
+Add ToDo read science paper every day excluding Sunday,new_task,command,command,task,task,task,frequency,frequency,omit,excluded
+New task read science paper every day excluding Sunday,new_task,command,command,task,task,task,frequency,frequency,omit,excluded
+Make task read science paper every day excluding Sunday,new_task,command,command,task,task,task,frequency,frequency,omit,excluded
+Add new task read science paper every day excluding Sunday,new_task,command,command,command,task,task,task,frequency,frequency,omit,excluded
+Create task read book every day for DIGITDIGIT minutes excluding Sunday,new_task,command,command,task,task,frequency,frequency,omit,duration,duration,omit,excluded
+Add task read book every day for DIGITDIGIT minutes excluding Sunday,new_task,command,command,task,task,frequency,frequency,omit,duration,duration,omit,excluded
+Add ToDo read book every day for DIGITDIGIT minutes excluding Sunday,new_task,command,command,task,task,frequency,frequency,omit,duration,duration,omit,excluded
+New task read book every day for DIGITDIGIT minutes excluding Sunday,new_task,command,command,task,task,frequency,frequency,omit,duration,duration,omit,excluded
+Make task read book every day for DIGITDIGIT minutes excluding Sunday,new_task,command,command,task,task,frequency,frequency,omit,duration,duration,omit,excluded
+Add new task read book every day for DIGITDIGIT minutes excluding Sunday,new_task,command,command,command,task,task,frequency,frequency,omit,duration,duration,omit,excluded
+Create task workout DIGIT times per week for DIGITDIGIT hour excluding Sunday,new_task,command,command,task,frequency,frequency,frequency,frequency,omit,duration,duration,omit,excluded
+Add task workout DIGIT times per week for DIGIT hour excluding Sunday,new_task,command,command,task,frequency,frequency,frequency,frequency,omit,duration,duration,omit,excluded
+Add ToDo workout DIGIT times per week for DIGIT hour excluding Sunday,new_task,command,command,task,frequency,frequency,frequency,frequency,omit,duration,duration,omit,excluded
+New task workout DIGIT times per week for DIGIT hour excluding Sunday,new_task,command,command,task,frequency,frequency,frequency,frequency,omit,duration,duration,omit,excluded
+Make task workout DIGIT times per week for DIGIT hour excluding Sunday,new_task,command,command,task,frequency,frequency,frequency,frequency,omit,duration,duration,omit,excluded
+Add new task workout DIGIT times per week for DIGIT hour excluding Sunday,new_task,command,command,command,task,frequency,frequency,frequency,frequency,omit,duration,duration,omit,excluded
